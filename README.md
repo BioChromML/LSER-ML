@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 3. Open the notebook:
 ```bash
-jupyter notebook modeling.ipynb
+jupyter notebook code.ipynb
 ```
 
 4. In the first cell, update the `path` variable to point to your local data file:
