@@ -1,8 +1,5 @@
 # LSER-ML: Machine Learning Models for IAM Chromatographic Retention
 
-Companion code for the manuscript:
-> Nisterenko W., Greber K.E., Kierkowicz M., Ciura K. *Revisiting the LSER Approach in the Era of Machine Learning: Insights from IAM Chromatography.* (2026)
-
 ## Overview
 This repository contains the dataset and modeling code for predicting the chromatographic hydrophobicity index of immobilized artificial membrane chromatography (CHI_IAM) using Abraham solvation descriptors combined with machine learning algorithms. The dataset comprises 993 structurally diverse compounds. The best-performing model (SVR-RBF) achieved R²test = 0.853 and RMSEtest = 4.609.
 
