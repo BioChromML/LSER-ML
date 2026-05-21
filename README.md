@@ -7,10 +7,11 @@ Companion code for the manuscript:
 This repository contains the dataset and modeling code for predicting the chromatographic hydrophobicity index of immobilized artificial membrane chromatography (CHI_IAM) using Abraham solvation descriptors combined with machine learning algorithms. The dataset comprises 993 structurally diverse compounds. The best-performing model (SVR-RBF) achieved R²test = 0.853 and RMSEtest = 4.609.
 
 ## Repository Structure
-├── data/
-│   └── dataset.xlsx       # 993 compounds: SMILES, LSER descriptors, ionization state, CHI_IAM
-├── modeling.ipynb          # Kennard-Stone split + 7 ML models
-└── requirements.txt        # Python dependencies
+
+    ├── data/
+    │   └── dataset.xlsx
+    ├── modeling.ipynb
+    └── requirements.txt
 
 ## How to Run
 
