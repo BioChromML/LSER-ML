@@ -57,7 +57,7 @@ path = "data/dataset.xlsx"
 
 ## Citation
 Once published, please cite:
-> Nisterenko W. et al. (2026) *Revisiting the LSER Approach in the Era of Machine Learning.* DOI: (to be added)
+> Nisterenko W. et al. (2026) *Revisiting the LSER Approach in the Era of Machine Learning: Insights from IAM Chromatography* DOI: (to be added)
 
 ## License
 MIT
