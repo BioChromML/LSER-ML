@@ -57,7 +57,7 @@ path = "data/dataset.xlsx"
 
 ## Citation
 Once published, please cite:
-> Nisterenko W. et al. (2026) *Revisiting the LSER Approach in the Era of Machine Learning: Insights from IAM Chromatography* DOI: (to be added)
+> Nisterenko, W., Greber, K. E., Kierkowicz, M., & Ciura, K. (2026) *Revisiting the LSER Approach in the Era of Machine Learning: Insights from IAM Chromatography*, Molecular Pharmaceutics, 23(9), 4647–4655. DOI: 10.1021/acs.molpharmaceut.6c00381
 
 ## License
 MIT
